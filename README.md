@@ -20,8 +20,6 @@ Steps:
 
 -   Use "Upload SEP File" button to "Upload" SEP data ("SEP_2022_summary_baseline_year...")
 
-    -   NOTE: For the
-
     -   NOTE: As long as you are running this app on your local computer (where you normally store your SEP data), you're not **actually** uploading your data to another server - which is a good thing. Always abide by your organizations data security practices.
 
 -   Use the "Select Metric:" and "Select Disagg Group:" inputs to change the resulting graph.
